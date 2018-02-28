@@ -1,0 +1,24 @@
+{
+  "name": "lola-recipes-api",
+  "version": "1.0.0",
+  "description": "API de recetas de la abuela Lola",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Express",
+    "RestAPI",
+    "MongoDB",
+    "Mongoose",
+    "Recipes"
+  ],
+  "author": "mgasca",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "dotenv": "^5.0.1",
+    "express": "^4.16.2",
+    "mongoose": "^5.0.7"
+  }
+}
